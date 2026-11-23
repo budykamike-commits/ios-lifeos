@@ -1,0 +1,13 @@
+{
+  "appId": "com.michael.lifeos",
+  "appName": "Life OS",
+  "webDir": "www",
+  "server": {
+    "url": "https://life-os-azure-xi.vercel.app",
+    "cleartext": false
+  },
+  "ios": {
+    "contentInset": "always",
+    "scrollEnabled": true
+  }
+}
